@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Strategy for personal backups
-categories: [Software]
+categories: 
+    - Software
+last_modified_at: 2020-08-22T14:28:00+01:00
+excerpt_separator: "<!--more-->"
 ---
 
-Here I'm sharing with you my current backup strategy for personal files, which involves using a physical HDD and [AWS S3 service](https://aws.amazon.com/s3/). I currently have about **1 TB** of data that is kept safe. I estimate spending an average of **60 USD per year** with it. But as times passes, technology advances, costs are expected to decrease. I tried over the years different strategies, but with this one I feel the most comfortable so far. I tried to optimize my solution taking into account these 4 main aspects:
+Here I'm sharing with you my current backup strategy for personal files, which involves using a physical HDD and [AWS S3 service](https://aws.amazon.com/s3/). <!--more-->I currently have about **1 TB** of data that is kept safe. I estimate spending an average of **60 USD per year** with it. But as times passes, technology advances, costs are expected to decrease. I tried over the years different strategies, but with this one I feel the most comfortable so far. I tried to optimize my solution taking into account these 4 main aspects:
+
 
 - Cost: I don't like spending more than I need. 
 - Reliability: All my data will be intact for, at least, as long as I live.
