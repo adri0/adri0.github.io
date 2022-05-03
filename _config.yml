@@ -29,11 +29,6 @@ plugins:
 paginate: 10
 paginate_path: /page:num/
 
-# collections:
-#   recipes:
-#     output: true
-#     permalink: /:collection/:path/
-
 exclude:
   - Gemfile
   - Gemfile.lock
