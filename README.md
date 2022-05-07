@@ -1,1 +1,0 @@
-This repository is the source code for the blog: https://adri0.com
