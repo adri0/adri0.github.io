@@ -14,7 +14,9 @@ We are often intimidated by tasks perceived as too big or hard. They tend to see
 for our limited skills, shaky motivation or short span of attention.
 Tasks _perceived_ as easy, though, are easy. Even when the task is actually hard, as long as it feels comfortable - either because it's fun doing it, or familiar, or safe, or I have some sense of control over it - it will feel like it's easy.
 
->> The good news is that big, hard accomplishments, more often than not, can either be replaced by an easier version of itself or broken down into smaller, easier, ones. 
+> The good news is that big, hard accomplishments, more often than not, can either be replaced by an easier version of itself or broken down into smaller, easier, ones. 
+
+<!--more-->
 
 Having clarity over what are the small easy steps that make up the bigger goal is a way to turn the tables on the psychology of hard things. Divide and conquer. Perhaps, that's the only way of accomplishing them. Instead of planning that whole 3-week trip to Japan in an evening, let's just book the tickets now. Once the tickets are bought - meaning now we have a restriction on the arrival and return dates - the other details will be slightly easier to plan. And with each decision being made, the next ones gets easier.
 
