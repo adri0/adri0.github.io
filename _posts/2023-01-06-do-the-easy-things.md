@@ -4,7 +4,7 @@ title: Do the easy things
 categories: 
     - Life
     - Software
-last_modified_at: 2023-01-06T20:05:00+01:00
+last_modified_at: 2023-01-07T11:47:00+01:00
 excerpt_separator: "<!--more-->"
 ---
 
@@ -18,10 +18,10 @@ Tasks _perceived_ as easy, though, are easy. Even when the task is actually hard
 
 <!--more-->
 
-Having clarity over what are the small easy steps that make up the bigger goal is a way to turn the tables on the psychology of hard things. Divide and conquer. Perhaps, that's the only way of accomplishing them. Instead of planning that whole 3-week trip to Japan in an evening, let's just book the tickets now. Once the tickets are bought - meaning now we have a restriction on the arrival and return dates - the other details will be slightly easier to plan. And with each decision being made, the next ones gets easier.
+Having clarity over what are the small easy steps that make up the bigger goal is a way to turn the tables on the psychology of hard things. Divide and conquer. Perhaps, that's the only way of accomplishing them. Instead of planning that whole 3-week trip to Japan in an evening, let's just book the tickets now. Once the tickets are bought - meaning now we have a restriction on the arrival and return dates - the other details will be slightly easier to plan. And with each decision being made, the next one gets easier.
 
 Don't know where to start? Just look for something easy enough that will move you in the direction of the desired goal. Want to start running again? The idea of going out for a 5k run every two days a week religiously after a long break is hard. But maybe the commitment of just putting the running shoes and leaving home for a 10-minute jog three times a week sounds much more doable. 
 
-Sometimes when breaking down a big problem into smaller ones, we're still faced with some hard, but smaller problems. That's okay. Leave them for later if possible, just do the easy ones first. Building _momentum_ is key for bigger accomplishments. Abandoning something gets harder as its progress bar advances. Each accomplished step pushes the hard ones into corners where they can be properly handled when the time is right. You might even realise while seeking for an easier alternative that some hard problems [don't need solving at all](https://37signals.com/podcast/quick-wins).
+Sometimes when breaking down a big problem into smaller ones, we're still faced with some hard, but smaller problems. That's okay. Leave them for later if possible, just do the easy ones first. Building _momentum_ is key for bigger accomplishments. The likelihood that a project be abandoned decreases as its progress bar advances. Each accomplished step pushes the harder ones towards a corner where they can be properly handled when the time is right. You might even realise, while seeking for easier alternatives, that some hard problems [don't need solving at all](https://37signals.com/podcast/quick-wins) - your project might get away just as fine if some issues go unaddressed.
 
 This concept firstly came to me due to coding. A substantial part of what makes a good engineer is the ability to break down complex concepts into smaller and simpler abstractions. But it can applied to almost every project in life: be it work, personal development, life goals, etc.
