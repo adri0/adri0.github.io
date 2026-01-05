@@ -1,6 +1,5 @@
 ---
 title: All posts
-layout: posts
+layout: archive
 permalink: /posts/
-entries_layout: list
 ---

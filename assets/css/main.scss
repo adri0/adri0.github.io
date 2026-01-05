@@ -1,0 +1,16 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+@import "{{ site.theme }}";
+
+.w {
+  max-width: 1500px !important;
+}
+
+body {
+  font-family: Lato, sans-serif !important;
+  font-weight: 500 !important;
+  font-size: 19.2px !important;
+}

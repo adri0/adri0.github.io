@@ -2,8 +2,8 @@
 layout: post
 title: Do the easy things
 categories: 
-    - Life
-    - Software
+    - life
+    - code
 last_modified_at: 2023-01-07T11:47:00+01:00
 excerpt_separator: "<!--more-->"
 ---

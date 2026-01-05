@@ -2,7 +2,7 @@
 layout: post
 title: Strategy for personal backups
 categories: 
-    - Software
+    - code
 last_modified_at: 2020-08-22T14:28:00+01:00
 excerpt_separator: "<!--more-->"
 ---

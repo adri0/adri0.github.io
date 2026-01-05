@@ -1,5 +1,5 @@
 lang: en-US
-title: underlog
+title: adri0
 author: adri0
 
 base_url: /
@@ -9,9 +9,13 @@ enforce_ssl: https://adri0.com
 twitter_username: adri0__
 github_username: adri0
 
-logo: /assets/images/nu.png
+remote_theme: "adri0/no-style-please"
 
-remote_theme: "adri0/jekyll-theme-basically-basic"
+theme_config:
+  appearance: "auto"  # can be "light", "dark", or "auto"
+  back_home_text: "home"
+  date_format: "%Y-%m-%d"
+  show_description: true
 
 permalink: /:title
 

@@ -2,7 +2,7 @@
 layout: post
 title: Perks of coding literacy
 categories: 
-    - Software
+    - code
 last_modified_at: 2020-06-01T23:56:00+01:00
 excerpt_separator: "<!--more-->"
 ---

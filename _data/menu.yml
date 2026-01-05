@@ -1,0 +1,14 @@
+entries:
+  - title: posts
+    url: /posts
+    post_list: true
+
+  - title: about
+    url: /about
+
+  - title: contact
+    entries:
+      - title: github.com/adri0
+        url: https://github.com/adri0
+      - title: x.com/adri0__
+        url: https://x.com/adri0__

@@ -2,8 +2,8 @@
 layout: post
 title: Thoughts on Tallinn and Estonia
 categories: 
-    - Life
-last_modified_at: 2026-01-04T19:48:00+01:00
+    - life
+last_modified_at: 2026-01-04T20:03:00+01:00
 excerpt_separator: "<!--more-->"
 ---
 
@@ -15,7 +15,7 @@ I’ve just been to Tallinn for a quick getaway between Christmas and New Year�
 
 The city tells its own story (and of that its country) via monuments, plaques and museums. On them one can find plenty of references to other languages and cultures happening in parallel with Estonian: Baltic, German, Russian, Swedish, Danish, Finnish and others. Occasionally, these cultures and languages are associated with a ruling nation, sometimes with allies, other times as just a segment of a society (merchants, nobles, craftsmen) that lived alongside each other. For an unwary visitor like myself it’s where I notice that Estonia throughout history is more than a set of people speaking Estonian and waving the Estonian flag. 
 
-An example: when approaching one of the main city’s attractions, the Danish King'shappening in parallel to Estonian garden, I'm greeted by a shield sporting the flag of Denmark. The Danish flag is considered an important symbol in Tallinn's history. According to a legend (there’s a nice renaissance representation of it) the flag of Denmark descended from the skies as the Danish crusaders battle the local pagan Estonians and take over Estonia (called Revala at the time), as if a symbol of God's approval. From then on, Estonia would be ruled by the Danes for quite some time. Later, it would change hands to the Teutonic, Swedish and Russian rulers, with a brief moment of independence, until WWII, when it was incorporated into the Soviet Union. The modern sovereign state of Estonia was created in 1991 as the Soviet Union collapsed.
+An example: when approaching one of the main city’s attractions, the Danish King's Garden, I'm greeted by a shield sporting the flag of Denmark. The Danish flag is considered an important symbol in Tallinn's history. According to a legend ([here's a nice Neoclassical representation](https://en.wikipedia.org/wiki/Dannebrog#/media/File:Danmarks_flag_1219_Lorentzen.jpg) of it) the flag of Denmark descended from the skies as the Danish crusaders battle the local pagan Estonians and take over Estonia (called Revala at the time), as if a symbol of God's approval. From then on, Estonia would be ruled by the Danes for quite some time. Later, it would change hands to the Teutonic, Swedish and Russian rulers, with a brief moment of independence, until WWII, when it was incorporated into the Soviet Union. The modern sovereign state of Estonia was created in 1991 as the Soviet Union collapsed.
 
 ## Medieval
 
