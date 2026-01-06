@@ -12,7 +12,7 @@ github_username: adri0
 remote_theme: "adri0/no-style-please"
 
 theme_config:
-  appearance: "auto"  # can be "light", "dark", or "auto"
+  appearance: "auto"
   back_home_text: "home"
   date_format: "%Y-%m-%d"
   show_description: true
