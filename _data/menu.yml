@@ -1,6 +1,6 @@
 entries:
-  - title: posts
-    url: /posts
+  - title: blog
+    url: /blog
     post_list: true
 
   - title: about

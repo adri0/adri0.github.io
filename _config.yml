@@ -1,4 +1,4 @@
-lang: en-US
+lang: en
 title: adri0
 author: adri0
 
@@ -17,9 +17,9 @@ theme_config:
   date_format: "%Y-%m-%d"
   show_description: true
 
-permalink: /:title
-
 markdown: kramdown
+
+permalink: /blog/:title
 
 liquid:
   error_mode: strict
