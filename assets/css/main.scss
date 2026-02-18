@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+figure {
+  padding-top: 1em;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.8em;
+  color: #959595;
+  padding-top: 0.5em;
+  font-style: italic;
+}
+
+.w {
+  max-width: 800px;
+}
