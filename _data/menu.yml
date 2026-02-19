@@ -1,10 +1,10 @@
 entries:
+  - title: about
+    url: /about
+
   - title: blog
     url: /blog
     post_list: true
-
-  - title: about
-    url: /about
 
   - title: contact
     entries:
@@ -12,3 +12,5 @@ entries:
         url: https://github.com/adri0
       - title: x.com/adri0__
         url: https://x.com/adri0__
+      - title: linkedin.com/in/adri0
+        url: https://www.linkedin.com/in/adri0/
