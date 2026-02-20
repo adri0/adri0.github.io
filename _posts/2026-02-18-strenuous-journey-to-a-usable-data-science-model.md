@@ -3,7 +3,7 @@ layout: post
 title: The strenuous journey from a useful to a usable data science model
 categories: 
     - code
-last_modified_at: 2026-02-18T11:50:00+01:00
+last_modified_at: 2026-02-20T11:45:00+01:00
 excerpt_separator: "<!--more-->"
 ---
 
@@ -56,9 +56,7 @@ How many times have you come across a piece of code with complex hierarchies of 
 
 ### 2. Cutting corners
 
-Write on Medium
 On the other hand, the model thinking mindset also leads to a tendency of cutting corners. If you really think about it, every data science model is optimizing on time. Any problem can be solved _without_ a model, when you have unlimited time to solve it. Therefore, when you are optimizing for time, every poor design decision; untested/undocumented code; or suboptimal algorithm etc. is tomorrow’s problem.
-
 
 <figure>
 <img src="/assets/images/jenga.webp" alt="Pushing a small code change should not feel like removing a block from an unstable Jenga tower." width="500">
@@ -68,7 +66,7 @@ On the other hand, the model thinking mindset also leads to a tendency of cuttin
 
 ## The best practices trap
 
-Data scientists love to bring up the one-model-fits-all fallacy, while at the same time love chasing best practices from the industry leaders. Adopting best practices may sound like a good idea, however, in software, many of the so-called best practices rarely fit every situation. What was considered best a week ago, might not be in today’s state of affairs. Practices evolve out of a particular context and conditions which could change over time. The trap lies in reproducing practices without really understanding their motivations and intentions, leading to [_cargo cult software engineering_](https://en.wikipedia.org/wiki/Cargo_cult_programming) and unnecessary complexity. Instead, in order to be useful, practices must come from an explicit intent (e.g. minimize mental models, standardize components, encapsulate complexity, etc.); and be adaptable to a changing reality.
+Data scientists love to bring up the one-model-fits-all fallacy, while at the same time love chasing best practices from the industry leaders. Although, to be fair, engineers fall into this trap as much (or even more in some cases). Adopting best practices may sound like a good idea, however, in software, many of the so-called best practices rarely fit every situation. What was considered best a week ago, might not be in today’s state of affairs. Practices evolve out of a particular context and conditions which could change over time. The trap lies in reproducing practices without really understanding their motivations and intentions, leading to [_cargo cult software engineering_](https://en.wikipedia.org/wiki/Cargo_cult_programming) and unnecessary complexity. Instead, in order to be useful, practices must come from an explicit intent (e.g. minimize mental models, standardize components, encapsulate complexity, etc.); and be adaptable to a changing reality.
 
 Nick Hawn from Atomic Spin [proposes](https://spin.atomicobject.com/best-practices/):
 
