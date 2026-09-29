@@ -59,7 +59,7 @@ dev ~> claude
 
 A drawback from this setup is that I lose Claude integration with my IDE (open file awareness, selection awareness, etc.) because now Claude and the IDE are running under different users (still looking for an alternative). But I can live with that. I don't feel those features are super essential anyway.
 
-***Use a fine-grained GitHub token*** - The last precaution is related to git and GitHub access. I don't want Claude to have access to my entire GitHub account (especially private repos). Thus, for Claude sessions, I log in to GitHub CLI using a [fine-grained GitHub personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#fine-grained-personal-access-tokens), which is configured to allow access only to the relevant repos, and only can write issues, pull requests and comments in pull requests of only those particular repositories. 
+***Use a fine-grained GitHub token*** - The last precaution is related to git and GitHub access. I don't want Claude to have access to my entire GitHub account (especially private repos). Thus, for Claude sessions, I log in to GitHub CLI using a [fine-grained GitHub personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#fine-grained-personal-access-tokens), which is configured to allow access only to the relevant repos, and can write issues, pull requests and comments only in them. 
 
 ### Closing remarks
 
