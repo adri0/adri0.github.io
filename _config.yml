@@ -10,12 +10,28 @@ twitter_username: adri0__
 github_username: adri0
 
 remote_theme: "adri0/no-style-please"
+# theme: "no-style-please"
 
 theme_config:
   appearance: "auto"
   back_home_text: "home"
   date_format: "%Y-%m-%d"
   show_description: true
+
+giscus:
+  repo: "adri0/adri0.github.io"
+  repo_id: "MDEwOlJlcG9zaXRvcnkyNjY1MzYxOTQ"
+  category: "Q&A"
+  category_id: "DIC_kwDOD-MFAs4DGrf-"
+  mapping: "pathname"
+  strict: "0"
+  reactions_enabled: "1"
+  emit_metadata: "0"
+  input_position: "top"
+  theme: "preferred_color_scheme"
+  lang: "en"
+  data-lang: "en"
+  data-loading: "lazy"
 
 markdown: kramdown
 
@@ -39,3 +55,4 @@ exclude:
   - README.md
   - CNAME
   - old
+  - vendor
