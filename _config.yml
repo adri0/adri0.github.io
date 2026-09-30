@@ -18,6 +18,8 @@ theme_config:
   date_format: "%Y-%m-%d"
   show_description: true
 
+umami_website_id: "da6285e6-2371-4bb9-966e-a35759671a84"
+
 giscus:
   repo: "adri0/adri0.github.io"
   repo_id: "MDEwOlJlcG9zaXRvcnkyNjY1MzYxOTQ"
